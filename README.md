@@ -1,4 +1,4 @@
-# Google Search Analysis (Expanded)
+# Google Search Analysis
 
 ## Introduction
 This project is designed to provide insights into Google Search user behavior through data analysis. The analysis covers various aspects, including search volume, click-through rates (CTR), keyword performance, and more. It is an educational tool for understanding how search data can be processed and analyzed.
@@ -8,7 +8,7 @@ This project is designed to provide insights into Google Search user behavior th
 - `script_1.py` to `script_5.py`: Python scripts for different data analysis tasks.
 - `README.md`: The documentation file for the project.
 
-## Dataset Details (Expanded)
+## Dataset Details
 The `search_data.csv` file now includes the following columns:
 - `query`: Search terms entered by users.
 - `search_volume`: Estimated number of searches for each term.
